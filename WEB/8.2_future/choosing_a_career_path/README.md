@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Главный узел
     CAREER["💼 Выбор профессии"]
@@ -47,3 +48,4 @@ graph TD
     class UNIV,SKILL,HOBBY,DREAM edu
     class RES,INT,STAGE,SAL,TEAM,OFF,PATH job
     class CAREER main
+```    
